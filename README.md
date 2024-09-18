@@ -1,5 +1,5 @@
 <div align=center>
-  <h1 style="font-size: 1.1rem;">Hey 💻☁️🔐</h1>
+  ## Hey‎ ‎ ‎ ‎ ‎ 💻☁️🔐
 
   <p>Cloud Engineer, interested in cryptography and decentralized systems.</p>
 
